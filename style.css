@@ -3,7 +3,7 @@ body {
   background-repeat: no-repeat; /* Prevent the image from repeating */
   background-size: cover; /* Scale the image to cover the entire container */
   background-attachment: fixed; /* Fix the image in place while scrolling */
-  background-color: #0000ff; /* Fallback color if the image can't load */
+  background-color: #7d7ded; /* Fallback color if the image can't load */
 }
 
 p { text-align: center; font-size: 30px; margin-left: 20px;}
