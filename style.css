@@ -27,13 +27,13 @@ div { width: 80%; margin-left:10%; margin-right: 10%; display: block; font-famil
 div img { max-width: 100%; height: auto; }
 
 .myButton {
-	background:linear-gradient(to bottom, #79bbff 5%, #ffffff 100%);
+	background:linear-gradient(to bottom, #79ddff 5%, #ffffff 100%);
 	background-color:#79bbff;
 	border-radius:5px;
 	border:1px solid #3409f4;
 	display:inline-block;
 	cursor:pointer;
-	color:#0000ff;
+	color:#008fde;
 	font-family:Courier New;
 	font-size:28px;
 	font-weight:bold;
